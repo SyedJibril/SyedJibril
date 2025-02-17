@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Syed Jibril  
 
-- 🔥 Full-stack developer passionate about **Next.js, PostgreSQL, and Cloudflare**  
+- 🔥 Full-stack developer passionate about **Software Engineering Stuff**  
 - 🚀 Working on **TheBakehouse website – an eCommerce platform for a café with AI-powered custom cake generation**  
 - 📦 Exploring **Docker, Coolify, and self-hosting strategies**  
 - 🏆 Google Project Management Certification in progress  
@@ -12,8 +12,8 @@
 ## 🔥 GitHub Stats & Most Used Languages  
 
 <p align="center">
-  <img width="48%" height="150px" src="https://github-readme-stats.vercel.app/api?username=SyedJibril&show_icons=true&theme=radical&count_private=true" />
-  <img width="48%" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedJibril&layout=compact&theme=radical&langs_count=8" />
+  <img width="50%" height="150px" src="https://github-readme-stats.vercel.app/api?username=SyedJibril&show_icons=true&theme=radical&count_private=true" />
+  <img width="50%" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedJibril&layout=compact&theme=radical&langs_count=8" />
 </p>  
 
 ## 📫 Connect with Me  
