@@ -12,8 +12,11 @@
 ## 🔥 GitHub Stats & Most Used Languages  
 
 <p align="center">
-  <img width="49%" height="150px" src="https://github-readme-stats.vercel.app/api?username=SyedJibril&show_icons=true&theme=radical&count_private=true&include_all_commits=true&show_owner=true&cache_seconds=1800" />
-  <img width="49%" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedJibril&layout=compact&theme=radical&langs_count=8&count_private=true&cache_seconds=1800" />
+  <!-- Alternative that might count across branches -->
+  <img width="49%" height="150px" src="https://activity-graph.herokuapp.com/graph?username=SyedJibril&theme=radical" />
+  
+  <!-- Or use GitHub's native contribution graph -->
+  <img width="49%" height="150px" src="https://github.com/SyedJibril/SyedJibril/blob/main/profile-3d-contrib/profile-night-rainbow.svg" />
 </p>
 
 ## 📫 Connect with Me  
