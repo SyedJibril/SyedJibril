@@ -28,7 +28,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/syd.jibril" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40" alt="Instagram"/>
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram"/>
   </a>
 </p>
 
