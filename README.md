@@ -12,7 +12,7 @@
 ## 🔥 GitHub Stats & Most Used Languages  
 
 <p align="center">
-  <img width="48%" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedJibril&layout=compact&theme=radical&langs_count=8" />
+  <img width="48%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedJibril&layout=compact&theme=radical&langs_count=8" />
 </p>  
 
 ## 📫 Connect with Me  
