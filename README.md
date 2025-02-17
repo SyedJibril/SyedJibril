@@ -11,10 +11,10 @@
 
 ## 🔥 GitHub Stats & Most Used Languages  
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SyedJibril&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedJibril&layout=compact&theme=radical&langs_count=8" alt="Top Languages" width="49%" />
-</div>
+<p align="center">
+  <img width="48%" height="150px" src="https://github-readme-stats.vercel.app/api?username=SyedJibril&show_icons=true&theme=radical&count_private=true" />
+  <img width="48%" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedJibril&layout=compact&theme=radical&langs_count=8" />
+</p>  
 
 ## 📫 Connect with Me  
 
