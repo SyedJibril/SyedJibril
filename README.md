@@ -20,9 +20,11 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/syedjibril">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/SyedJibril">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub"/>
   </a>
 </p>
+
