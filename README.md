@@ -9,12 +9,13 @@
 - 🎯 Currently building **Vaulspace KL – a studio reservation website in KL**  
 - 🎯 Currently building **a personal portfolio website**  
 
-## 🔥 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SyedJibril&show_icons=true&theme=radical)  
+## 🔥 GitHub Stats & Most Used Languages  
 
-## 🚀 Most Used Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedJibril&layout=compact&theme=radical)  
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SyedJibril&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedJibril&layout=compact&theme=radical" />
+</p>  
 
 ## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syedjibril)  
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SyedJibril)  
