@@ -4,7 +4,7 @@
 - 🚀 Working on **TheBakehouse website – an eCommerce platform for a café with AI-powered custom cake generation**  
 - 📦 Exploring **Docker, Coolify, and self-hosting strategies**  
 - 🏆 Google Project Management Certification in progress  
-- 🏆 Built **Vaulspace KL – a studio reservation website in KL**   
+- 🏆 Built **vaultspace.my – a studio reservation website in KL**   
 - 🎯 Currently building **TheBakehouse Café eCommerce AI website**  
 - 🎯 Currently building **a personal portfolio website**  
 
