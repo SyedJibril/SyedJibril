@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Syed Jibril  
 
 - 🔥 Full-stack developer passionate about **Software Engineering Stuff**  
-- 🚀 Working on **TheBakehouse website – an eCommerce platform for a café with AI-powered custom cake generation**  
+- 🚀 Currently Working on **TheBakehouse website – an eCommerce platform for a café with AI-powered custom cake generation**  
 - 📦 Exploring **Docker, Coolify, and self-hosting strategies**  
 - 🏆 Google Project Management Certification in progress  
 - 🏆 Built **vaultspace.my – a studio reservation website in KL**   
