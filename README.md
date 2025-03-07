@@ -7,7 +7,7 @@
 - 🏆 Built **vaultspace.my – a studio reservation website in KL**   
 - 🎯 Currently building **TheBakehouse Café eCommerce AI website**
 - 🎯 Currently building **a Dental Clinic Website**
-- 🎯 Currently building **a Marine COmpany Website**      
+- 🎯 Currently building **a Marine Company Website**      
 - 🎯 Currently building **a personal portfolio website**  
 
 ## 🔥 GitHub Stats & Most Used Languages  
